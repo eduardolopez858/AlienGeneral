@@ -17,4 +17,4 @@ npm run dev
 ```
 
 # Future Improvements
-While we have the base game completed, the logic definitely needs to be fleshed out a little more so that the game is a litle more intuitive for users. Additional content could also be added. 
+While we have the base game completed, logic improvements are to be fleshed out a little more so that the game is a more intuitive for the users. Additional content could also be added. 
