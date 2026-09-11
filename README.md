@@ -18,15 +18,15 @@ npm run dev
 
 ```
 ## Quality Attributes
-![](public/Quality.png)
+![](public/Quality.pdf)
 
 ## System Design
 
 ### Dynamic View
-![](public/Dynamic.png)
+![](public/Dynamic.pdf)
 
 ### Static View
-![](public/Static.png)
+![](public/Static.pdf)
 
 ## Future Improvements
 While we have the base game completed, logic improvements are to be fleshed out a little more so that the game is a more intuitive for the users. Additional content could also be added. 
