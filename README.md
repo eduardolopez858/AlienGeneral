@@ -23,7 +23,7 @@ npm run dev
 ## System Design
 
 ### Dynamic View
-![](public/Dynamic.pdf)
+![](https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Dynamic.pdf)
 
 ### Static View
 ![](public/Static.pdf)
