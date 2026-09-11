@@ -1,4 +1,5 @@
 # Time-Travelling Alien General
+### Abstract
 A history-themed geography game where players travel through key moments of World War I and World War II to locate relevant countries on a world map. Our target audience for this game are high schoolers that are taking a World History class, this game should flesh out their understanding and knowledge of the two World Wars. 
 
 # Storyline
