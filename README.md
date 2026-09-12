@@ -18,13 +18,15 @@ npm run dev
 
 ```
 ## Quality Attributes
-![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-1.png)
-
+![](public/Quality-1.png)
+![](public/Quality-2.png)
+![](public/Quality-3.png)
+![](public/Quality-4.png)
 
 ## System Design
 
 ### Dynamic View
-![](https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Dynamic-1.png)
+![](public/Dynamic-1.png)
 
 ### Static View
 ![](public/Static-1.png)
