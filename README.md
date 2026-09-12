@@ -18,15 +18,18 @@ npm run dev
 
 ```
 ## Quality Attributes
-![](public/Quality.pdf)
+![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-1.png)
+![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-2.png)
+![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-3.png)
+![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-4.png)
 
 ## System Design
 
 ### Dynamic View
-![](https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Dynamic.pdf)
+![](https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Dynamic-1.png)
 
 ### Static View
-![](public/Static.pdf)
+![](public/Static-1.png)
 
 ## Future Improvements
 While we have the base game completed, logic improvements are to be fleshed out a little more so that the game is a more intuitive for the users. Additional content could also be added. 
