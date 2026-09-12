@@ -19,9 +19,7 @@ npm run dev
 ```
 ## Quality Attributes
 ![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-1.png)
-![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-2.png)
-![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-3.png)
-![](public/https://github.com/eduardolopez858/AlienGeneral/blob/main/public/Quality-4.png)
+
 
 ## System Design
 
